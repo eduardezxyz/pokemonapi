@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dfbzEdLh0aeVoxyNv79ZQIbwr1U45w33qUOdRErz2jo2jbfzKWN+iEQXIlTJMcH6WoSZ6X39TAC5xY7JIt2DNA==",
+  "dgSpecHash": "E26WW1PC/oxDVQSHxL9ksOuCVu6fkWP+cNdUjoJV3SWnFPhxl5sjvyridTcVt0g2joU8Gk5fGjdAxCeMsPtMmg==",
   "success": true,
-  "projectFilePath": "/Users/sc/Documents/Code/Demoapi/Demoapi.csproj",
+  "projectFilePath": "/Users/sc/Documents/Code/pokemonapi/Demoapi.csproj",
   "expectedPackageFiles": [
     "/Users/sc/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/sc/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",

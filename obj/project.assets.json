@@ -7850,11 +7850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sc/Documents/Code/Demoapi/Demoapi.csproj",
+      "projectUniqueName": "/Users/sc/Documents/Code/pokemonapi/Demoapi.csproj",
       "projectName": "Demoapi",
-      "projectPath": "/Users/sc/Documents/Code/Demoapi/Demoapi.csproj",
+      "projectPath": "/Users/sc/Documents/Code/pokemonapi/Demoapi.csproj",
       "packagesPath": "/Users/sc/.nuget/packages/",
-      "outputPath": "/Users/sc/Documents/Code/Demoapi/obj/",
+      "outputPath": "/Users/sc/Documents/Code/pokemonapi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sc/.nuget/NuGet/NuGet.Config"

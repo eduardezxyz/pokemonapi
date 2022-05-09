@@ -1,6 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
-using Demoapi.EntityModels;
+﻿using Demoapi.EntityModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.OData.Deltas;
 using Microsoft.AspNetCore.OData.Formatter;
